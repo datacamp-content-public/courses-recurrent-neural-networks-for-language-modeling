@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Introduction to RNN and Basic Assumptions of various models
+
+```yaml
+type: VideoExercise
+key: 60a73b9ef2
+xp: 50
+```
+
+`@projector_key`
+338dbda74c890e5c14f63e9305412f7d
